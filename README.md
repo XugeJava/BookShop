@@ -1,6 +1,6 @@
 # 网上书城项目
 
-**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
+**作者：徐哥啊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：2472592648@qq.com
 
 ## 一、项目功能
 
@@ -52,5 +52,20 @@
 6. 运行项目。
 
 ## 四、项目截图
+1.首页
+![image](https://user-images.githubusercontent.com/91325832/170257192-33647d94-0de3-4062-8359-b56a4e63614b.png)
+
+2.全部系列
+![image](https://user-images.githubusercontent.com/91325832/170257249-8abc54f9-5659-4aa3-a237-7c2393de3b1d.png)
+3.热销商品
+![image](https://user-images.githubusercontent.com/91325832/170257303-39f27f7b-2a5e-409f-9881-e2d817349704.png)
+4.新品商品
+![image](https://user-images.githubusercontent.com/91325832/170257336-3f04625e-5b92-49c9-b8d6-815373356109.png)
+5.注册
+![image](https://user-images.githubusercontent.com/91325832/170257382-4fa14993-317f-41e9-ab88-3bb751ceb366.png)
+6.登录
+![image](https://user-images.githubusercontent.com/91325832/170257411-c24e2435-a85f-4da1-9cb9-de562ae5b478.png)
+7.购物车
+
 
 - 前端界面模板与CakeShop的模板相同，项目链接：https://github.com/vi-li/CakesShop
